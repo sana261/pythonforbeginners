@@ -1,4 +1,4 @@
-# python for beginners
+# Python for beginners
  **What You'll Find Here:**
 
 **Slides:** Presentation slides designed for use in teaching Python sessions.
