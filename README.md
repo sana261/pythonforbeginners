@@ -18,7 +18,7 @@
                 <a href="https://github.com/sana261">
                     <img src="https://avatars.githubusercontent.com/u/175141665?v=4" width="100px;" alt="Sana Qasir"/>
                     <br />
-                    <sub><b>Sana Qasir</b></sub>
+                    <sub><b>Sana Qaisar</b></sub>
                 </a> 
             </td>
           <td align="center">
@@ -76,7 +76,7 @@
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/395579696603502">Introduction to Python</br></td>
     <td align="center" ><a href="https://www.canva.com/design/DAGHdv6X-iI/ENB5xhRC6MyIxORlNM6kPQ/edit">Slides</td>
         <td align="center">Introduction to Python <br/>History of python<br/>Features of Python</br>Applications of python<br/>IDE for Python</td>
-      <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
+      <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qaisar</td>
   </tr>
           <tr>
     <td align="center"><b>Day 02</b></br>03-Sep-2024</td>
@@ -90,7 +90,7 @@
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1570662080497078"></br>Data Types</td>
        <td align="center"><a href="https://colab.research.google.com/drive/1it4fZ__D5O8aez4NGMbuAUTo9Er4JOvV#scrollTo=_8Wv0Q9frUXk"></br>Pratice File</td>
         <td align="center">Comments<br/>DataTypes<br/>Type Casting</td>
-     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
+     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qaisar</td>
   </tr>
          <tr>
     <td align="center"><b>Day 04</b></br>05-Sep-2024</td>
@@ -104,7 +104,7 @@
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1064866398590789"></br>Operators</td>
        <td align="center"><a href="https://colab.research.google.com/drive/1sYsmVgj-7xGFcvp8jy7JMQ_WUE7TzICr#scrollTo=9_-5hnwYpvy1"></br>Pratice File</td>
         <td align="center">Bitwise Operators</td>
-     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
+     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qaisar</td>
   </tr>
 </tbody>
 <table>
@@ -125,7 +125,7 @@
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1704515706755394">Flow Controls</br></td>
        <td align="center" ><a href="https://colab.research.google.com/drive/1TKi2c2ulI_zjVaU3UN4LuBTbMc0bSPly#scrollTo=wR9aiHsHmCy6">Practice File</td>
         <td align="center">Bitwise Operators</br>if Statements</br>else Statements</br>elif Statements</td>
-     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
+     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qaisar</td>
   </tr>
 </tbody>
                  <tr>
@@ -175,7 +175,7 @@
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/776244961181296">String</br></td>
        <td align="center" ><a href="https://colab.research.google.com/drive/1TKi2c2ulI_zjVaU3UN4LuBTbMc0bSPly#scrollTo=wR9aiHsHmCy6">Practice File</td>
         <td align="center">String</br>Methods of String</td>
-     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
+     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qaisar</td>
   </tr>
          <tr>
     <td align="center"><b>Day 02</b></br>17-Sep-2024</td>
@@ -184,6 +184,13 @@
         <td align="center">String</br>Methods of String</td>
      <td align="center"><a href="https://www.linkedin.com/in/maazaienthusiast/">Maaz Irfan</td>
   </tr> 
+         <tr>
+             <td align="center"><b>Day 03</b>1818-Sep-2024</td>
+             <td align="center"><a href="Link">String methods and problems</br></td>
+                 <td align="center"><a href="https://colab.research.google.com/drive/1TKi2c2ulI_zjVaU3UN4LuBTbMc0bSPly#scrollTo=wR9aiHsHmCy6">Practice File</td>
+                     <td align="center">String methods</br>Problems</td>
+                     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qaisar</d>
+         </tr>
 <table>
 
 
