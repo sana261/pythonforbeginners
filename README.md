@@ -185,7 +185,7 @@
      <td align="center"><a href="https://www.linkedin.com/in/maazaienthusiast/">Maaz Irfan</td>
   </tr> 
          <tr>
-             <td align="center"><b>Day 03</b>1818-Sep-2024</td>
+             <td align="center"><b>Day 03</br>18-Sep-2024</td>
              <td align="center"><a href="Link">String methods and problems</br></td>
                  <td align="center"><a href="https://colab.research.google.com/drive/1TKi2c2ulI_zjVaU3UN4LuBTbMc0bSPly#scrollTo=wR9aiHsHmCy6">Practice File</td>
                      <td align="center">String methods</br>Problems</td>
